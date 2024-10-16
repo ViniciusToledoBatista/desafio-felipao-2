@@ -41,3 +41,11 @@ Sinta-se à vontade para contribuir com melhorias ou correções! Para isso:
 1. Crie um fork deste repositório.
 2. Faça suas alterações.
 3. Envie um pull request.
+
+---
+
+## 🌐 Vamos nos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/vinicius-toledo-736442253/)
+
+---
